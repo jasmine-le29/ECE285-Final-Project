@@ -1,0 +1,16 @@
+.DS_Store
+
+# datasets
+results/data/
+
+# large experiment outputs
+results/results_imagenet256/
+
+# model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# python cache
+__pycache__/
+*.pyc
